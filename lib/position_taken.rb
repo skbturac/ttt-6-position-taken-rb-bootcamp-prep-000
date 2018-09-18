@@ -3,8 +3,7 @@
 def position_taken 
   
   if position_taken == "X"
-    return 
     
-else
+  else 
 end
   
