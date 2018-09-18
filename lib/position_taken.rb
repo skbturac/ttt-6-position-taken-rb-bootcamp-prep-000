@@ -2,7 +2,8 @@
 
 def position_taken 
   
-  if 
+  if position_taken == "X"
+    return 
     
 else
 end
